@@ -58,10 +58,8 @@ This project became an opportunity to learn the **full EE process**: embedded pr
 ## Current Status  
 
 - Speaker is **functional**, with enclosure designed (cutting pending)  
-- Issues with the **RK09712200MY pot** (rated for 9V, running at 20V):  
-  - Behaves like a balance control instead of volume  
-  - Both output channels not stable under all loads  
-- Audio visualizer: bass frequencies **dominate FFT output**, needs better equalization  
+- Ground loop distortion significantly reduced
+- Output power higher than commercial board
 
 ---
 
